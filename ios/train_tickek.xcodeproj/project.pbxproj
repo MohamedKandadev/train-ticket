@@ -8,12 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* train_tickekTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* train_tickekTests.m */; };
+		0511D87BBFD843CFAA74339B /* NunitoSans_10pt-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AF59A5964A2445C89216E09 /* NunitoSans_10pt-Bold.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-train_tickek.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-train_tickek.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		326EC479183E4CE0B28D980A /* NunitoSans_10pt-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 39C24D936D0B42B79172262A /* NunitoSans_10pt-Regular.ttf */; };
+		5BF36197A3DF425A858DBF15 /* NunitoSans_10pt-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 947BD4581AF94DDDB65CA5F3 /* NunitoSans_10pt-SemiBold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-train_tickek-train_tickekTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-train_tickek-train_tickekTests.a */; };
+		7FFBE3429CEA4D559B77A9B3 /* NunitoSans_10pt-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 263C4625A4454159A6CB9E31 /* NunitoSans_10pt-Light.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		BE3C1011ADF44E85AD75BA8C /* NunitoSans_10pt-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 14623615FB9C43C9B1114411 /* NunitoSans_10pt-ExtraBold.ttf */; };
+		C37212623B7A459DA525A16B /* NunitoSans_10pt-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 749698E14B704191AD1A1561 /* NunitoSans_10pt-Medium.ttf */; };
 		C7BB4F1CC943722AF5E26D8D /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 42D93DCBF860D98D309D4B00 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
@@ -38,14 +44,20 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = train_tickek/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = train_tickek/main.m; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = train_tickek/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		14623615FB9C43C9B1114411 /* NunitoSans_10pt-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NunitoSans_10pt-ExtraBold.ttf"; path = "../assets/fonts/NunitoSans_10pt-ExtraBold.ttf"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-train_tickek-train_tickekTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-train_tickek-train_tickekTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		263C4625A4454159A6CB9E31 /* NunitoSans_10pt-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NunitoSans_10pt-Light.ttf"; path = "../assets/fonts/NunitoSans_10pt-Light.ttf"; sourceTree = "<group>"; };
+		39C24D936D0B42B79172262A /* NunitoSans_10pt-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NunitoSans_10pt-Regular.ttf"; path = "../assets/fonts/NunitoSans_10pt-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-train_tickek.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-train_tickek.debug.xcconfig"; path = "Target Support Files/Pods-train_tickek/Pods-train_tickek.debug.xcconfig"; sourceTree = "<group>"; };
 		42D93DCBF860D98D309D4B00 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; name = PrivacyInfo.xcprivacy; path = train_tickek/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-train_tickek.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-train_tickek.release.xcconfig"; path = "Target Support Files/Pods-train_tickek/Pods-train_tickek.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-train_tickek-train_tickekTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-train_tickek-train_tickekTests.debug.xcconfig"; path = "Target Support Files/Pods-train_tickek-train_tickekTests/Pods-train_tickek-train_tickekTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-train_tickek.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-train_tickek.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		749698E14B704191AD1A1561 /* NunitoSans_10pt-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NunitoSans_10pt-Medium.ttf"; path = "../assets/fonts/NunitoSans_10pt-Medium.ttf"; sourceTree = "<group>"; };
+		7AF59A5964A2445C89216E09 /* NunitoSans_10pt-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NunitoSans_10pt-Bold.ttf"; path = "../assets/fonts/NunitoSans_10pt-Bold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = train_tickek/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-train_tickek-train_tickekTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-train_tickek-train_tickekTests.release.xcconfig"; path = "Target Support Files/Pods-train_tickek-train_tickekTests/Pods-train_tickek-train_tickekTests.release.xcconfig"; sourceTree = "<group>"; };
+		947BD4581AF94DDDB65CA5F3 /* NunitoSans_10pt-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "NunitoSans_10pt-SemiBold.ttf"; path = "../assets/fonts/NunitoSans_10pt-SemiBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -111,6 +123,20 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5DD5F16D479E459FBE6DD051 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7AF59A5964A2445C89216E09 /* NunitoSans_10pt-Bold.ttf */,
+				14623615FB9C43C9B1114411 /* NunitoSans_10pt-ExtraBold.ttf */,
+				263C4625A4454159A6CB9E31 /* NunitoSans_10pt-Light.ttf */,
+				749698E14B704191AD1A1561 /* NunitoSans_10pt-Medium.ttf */,
+				39C24D936D0B42B79172262A /* NunitoSans_10pt-Regular.ttf */,
+				947BD4581AF94DDDB65CA5F3 /* NunitoSans_10pt-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -127,6 +153,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				5DD5F16D479E459FBE6DD051 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -249,6 +276,12 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				C7BB4F1CC943722AF5E26D8D /* PrivacyInfo.xcprivacy in Resources */,
+				0511D87BBFD843CFAA74339B /* NunitoSans_10pt-Bold.ttf in Resources */,
+				BE3C1011ADF44E85AD75BA8C /* NunitoSans_10pt-ExtraBold.ttf in Resources */,
+				7FFBE3429CEA4D559B77A9B3 /* NunitoSans_10pt-Light.ttf in Resources */,
+				C37212623B7A459DA525A16B /* NunitoSans_10pt-Medium.ttf in Resources */,
+				326EC479183E4CE0B28D980A /* NunitoSans_10pt-Regular.ttf in Resources */,
+				5BF36197A3DF425A858DBF15 /* NunitoSans_10pt-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
